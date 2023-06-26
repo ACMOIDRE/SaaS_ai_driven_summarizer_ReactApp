@@ -9,5 +9,5 @@ Application features:
 - save history using the local storage
 - handle form events and catch errors 
 
-# web app link: https://elegant-seahorse-5e6d25.netlify.app
+# web app link: https://chatgpt4-driven-webapp-5e6d25.netlify.app/
 # Example link to summarize : https://www.javatpoint.com/python-tutorial
