@@ -1,5 +1,4 @@
 # ChatGPT AI SaaS App with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
 
 ## Introduction
  
@@ -12,5 +11,5 @@ this application has:
 - implement copy to clipboard
 - write clean code
 
-web app link: https://elegant-seahorse-5e6d25.netlify.app/
- example link to summarize : https://www.javatpoint.com/python-tutorial
+# web app link: https://elegant-seahorse-5e6d25.netlify.app/
+# Example link to summarize : https://www.javatpoint.com/python-tutorial
